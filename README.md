@@ -1,5 +1,5 @@
 PrisMXR
 
-[![Image](intro.png)]
+![Image](intro.png)
 
 
